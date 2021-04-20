@@ -1,4 +1,8 @@
-
 [submodule "przemo/test-submodule"]
 	path = przemo/test-submodule
-	url = git@github.com:Przemoo16/test-submodule.git
+	url = https://github.com/Przemoo16/test-submodule
+    
+[submodule "przemo/test-empty"]
+    path = przemo/test-empty
+    url = git@github.com:Przemoo16/test-empty.git
+
